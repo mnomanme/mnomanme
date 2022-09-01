@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/mnomanme" target="blank"><img src="https://img.shields.io/twitter/follow/mnomanme?logo=twitter&style=for-the-badge" alt="mnomanme" /></a> </p>
 
-- 🔭 I’m currently working on **web developer at home!**
+- 🔭 I’m currently working on **Web developer and Web Automation at home!**
 
-- 🌱 I’m currently learning **Java, Next.js, Node.js**
+- 🌱 I’m currently learning **Java, Next.js, Node.js, Software Automation**
 
 - 👯 I’m looking to collaborate on **react, node.js**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **Java, JavaScript, React, Automation Testing**
 
 - 📫 How to reach me **mnomanme@gmail.com**
 
