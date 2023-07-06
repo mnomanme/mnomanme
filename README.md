@@ -38,7 +38,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnomanme&show_icons=true&locale=en" alt="mnomanme" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mnomanme&show_icons=true&locale=en" alt="mnomanme" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mnomanme&" alt="mnomanme" /></p>
 
