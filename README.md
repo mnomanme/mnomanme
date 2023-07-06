@@ -33,7 +33,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnomanme&show_icons=true&locale=en" alt="mnomanme" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mnomanme&show_icons=true&locale=en" alt="mnomanme" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mnomanme&" alt="mnomanme" /></p>
 
@@ -42,8 +42,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnomanme" alt="mnomanme" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mnomanme" target="blank"><img src="https://img.shields.io/twitter/follow/mnomanme?logo=twitter&style=for-the-badge" alt="mnomanme" /></a> </p>
-
-<br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mnomanme"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mnomanme" /></a></p>
